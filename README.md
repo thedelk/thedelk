@@ -5,7 +5,8 @@
 My name is Ryan Delk. I like to code; it's like playing with word Legos. 🧱  
 Life is never more fun than when you're the underdog competing against the giants.
 
-I'm also a very large mechanical keyboard enthusiast. ⌨️
+I'm also a very large mechanical keyboard enthusiast. ⌨️  
+<sub>_(And my primary website is currently outdated 😓)_</sub>
 
 <br />
 
@@ -20,37 +21,47 @@ I'm also a very large mechanical keyboard enthusiast. ⌨️
 ![](https://img.shields.io/badge/VS_Code-informational?style=flat&logoWidth=16&logo=visualstudiocode&logoColor=007ACC&color=007ACC&labelColor=303030)
 
 <details>
-  <summary>Other stuff I know</summary>
+  <summary>Other experience</summary>
   <ul>
+    <li>adobe cc</li>
+    <li>lua</li>
     <li>pug</li>
     <li>quasar</li>
     <li>material ui</li>
-    <li>webpack</li>
-    <li>adobe cc</li>
-    <li>lua</li>
     <li>python</li>
+    <li>regular expression</li>
     <li>stripe</li>
+    <li>typescript</li>
+    <li>webpack</li>
+    <li>yarn</li>
   </ul>
 </details>
+
+<br />
+
+### 🔨 Tools
+
+These are some of the apps and utilities I use to stay sane.
+
+[AutoHotkey](https://www.autohotkey.com)  
+[Cacher](https://www.cacher.io)  
+[Keypirinha](https://keypirinha.com)  
+[Notion](https://www.notion.so)  
+[TickTick](https://ticktick.com)  
+[Toggl](https://toggl.com/track)
+
+<br />
+
+### 🔗 Links
+
+A few of my hangout spots.
+
+[Codesandbox](https://codesandbox.io/u/thedelk)  
+[Codepen](https://codepen.io/thedelk)  
+[LinkedIn](https://www.linkedin.com/in/rdelk)
 
 <br />
 
 ### 📈 Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=thedelk&theme=nord&count_private=true&show_icons=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-**thedelk/thedelk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
