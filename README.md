@@ -1,4 +1,4 @@
-![ryan](https://user-images.githubusercontent.com/26914643/135576486-8893be20-2ac5-4eb5-afe3-d122e7801a00.png)
+![ryan](https://user-images.githubusercontent.com/26914643/147962805-cf8d41bf-c0ba-41b8-b6be-893bea9dd52e.png)
 
 ### 🤦🏻‍♂️ Me
 
